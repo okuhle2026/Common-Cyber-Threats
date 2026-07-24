@@ -1,5 +1,5 @@
 # Common-Cyber-Threats
-## Part A:Definitions 
+# Part A:Definitions 
 
 1.)What is a Cyber Threat?
 
@@ -20,7 +20,7 @@ Think of like a house:
 - Vulnerability = The unlocked window. It’s the weakness in your house that makes it possible to break in. Ex: Weak password, unpatched software.
 - Attack = The burglar actually climbing through the window. It’s the action that exploits the vulnerability. Ex: Stealing data, installing malware.
 
-## Part B:Research
+# Part B:Research
 ## Phishing
 - What it is: A scam where hackers pretend to be someone trustworthy to trick you into giving info.
 - How it works: They send fake emails, texts, or websites that look real. You click a link or enter passwords/bank details, and they steal them.
@@ -40,14 +40,34 @@ Think of like a house:
 	 Keep your OS and apps patched.
 
 ## Ransomware
-- *What it is*: Malware that locks your files and demands money to unlock them.
-- *How it works*: It encrypts all your documents, photos, etc. Then it shows a ransom note asking for payment, usually in crypto.
-- *One real-life example*: The *WannaCry attack in 2017* hit hospitals and companies worldwide, locking patient records and systems.
-- *How to protect yourself*: 
-    - Back up your data regularly and offline.
-    - Don’t open suspicious email attachments.
-    - Keep software updated to patch vulnerabilities.
+- What it is: Malware that locks your files and demands money to unlock them.
+- How it works: It encrypts all your documents, photos, etc. Then it shows a ransom note asking for payment, usually in crypto.
+- One real-life example: The *WannaCry attack in 2017* hit hospitals and companies worldwide, locking patient records and systems.
+- How to protect yourself:
+    Back up your data regularly and offline.
+    Don’t open suspicious email attachments.
+    Keep software updated to patch vulnerabilities.
 
+## Social Engineering 
+- What it is: Manipulating people to give up confidential info instead of hacking tech directly.
+- How it works: Hackers use lies, pressure, or trust. Ex: Pretending to be IT support or your boss.
+- One real-life example: Someone calls pretending to be from "Microsoft Support" and asks you to install software so they can "fix your PC" — then they steal data.
+- How to protect yourself :
+    Verify who you’re talking to before sharing info.
+    Train staff on scams.
+    Have policies for verifying requests, especially money transfers.
+
+## Password Attack
+5. Password Attack*
+- What it is: When hackers try to guess or steal your passwords to get into accounts.
+- How it works: Methods include "brute force" - trying millions of guesses, "credential stuffing" using leaked passwords, or phishing.
+- One real-life example: Hackers use a list of leaked passwords from one website to try logging into people’s email and bank accounts.
+- How to protect yourself: 
+    Use strong, unique passwords + a password manager.
+    Turn on 2FA/MFA everywhere.
+    Don’t reuse passwords across sites.
+
+# Part C: Critical Thinking
 
 
 
