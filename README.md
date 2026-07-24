@@ -26,15 +26,27 @@ Think of like a house:
 - How it works: They send fake emails, texts, or websites that look real. You click a link or enter passwords/bank details, and they steal them.
 - One real-life example: A fake "Your bank account is locked" email that asks you to log in. The login page steals your password.
 - How to protect yourself: 
-	 ○  Don’t click random links. Check the sender’s email.
-	 ○  Use 2-factor authentication (2FA).
-	 ○  Hover over links to see if the URL looks suspicious.
+	 Don’t click random links. Check the sender’s email.
+	 Use 2-factor authentication (2FA).
+	 Hover over links to see if the URL looks suspicious.
 
 ## Malware 
 - What it is: "Malicious software" designed to damage, spy on, or take control of your device.
 - How it works: It gets installed through downloads, bad email attachments, or infected websites. Then it runs in the background.
 - One real-life example: A free game download that secretly installs spyware to track your keystrokes.
+-  How to protect yourself: 
+	 Use antivirus/anti-malware software and keep it updated.
+	 Don’t download from shady sites.
+	 Keep your OS and apps patched.
 
+## Ransomware
+- *What it is*: Malware that locks your files and demands money to unlock them.
+- *How it works*: It encrypts all your documents, photos, etc. Then it shows a ransom note asking for payment, usually in crypto.
+- *One real-life example*: The *WannaCry attack in 2017* hit hospitals and companies worldwide, locking patient records and systems.
+- *How to protect yourself*: 
+    - Back up your data regularly and offline.
+    - Don’t open suspicious email attachments.
+    - Keep software updated to patch vulnerabilities.
 
 
 
