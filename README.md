@@ -16,9 +16,9 @@ The actual attempt to exploit a vulnerability.
 4.)Difference between a threat ,a vulnerability and an attack 
 
 Think of like a house:
-- Threat = The burglar outside. It’s the potential danger that wants to break in. Ex: Hackers, ransomware groups.
-- Vulnerability = The unlocked window. It’s the weakness in your house that makes it possible to break in. Ex: Weak password, unpatched software.
-- Attack = The burglar actually climbing through the window. It’s the action that exploits the vulnerability. Ex: Stealing data, installing malware.
+- Threat = The burglar outside. It’s the potential danger that wants to break in. Eg: Hackers, ransomware groups.
+- Vulnerability = The unlocked window. It’s the weakness in your house that makes it possible to break in. Eg: Weak password, unpatched software.
+- Attack = The burglar actually climbing through the window. It’s the action that exploits the vulnerability. Eg: Stealing data, installing malware.
 
 # Part B:Research
 ## Phishing
