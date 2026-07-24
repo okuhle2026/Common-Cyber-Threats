@@ -3,7 +3,7 @@
 
 1.)What is a Cyber Threat?
 
-A Any potential danger that could harm your computer system,data or network.
+Any potential danger that could harm your computer system,data or network.
 
 2.)What is a vulnerability?
 
