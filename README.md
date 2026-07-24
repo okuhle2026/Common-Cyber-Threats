@@ -58,7 +58,6 @@ Think of like a house:
     Have policies for verifying requests, especially money transfers.
 
 ## Password Attack
-5. Password Attack*
 - What it is: When hackers try to guess or steal your passwords to get into accounts.
 - How it works: Methods include "brute force" - trying millions of guesses, "credential stuffing" using leaked passwords, or phishing.
 - One real-life example: Hackers use a list of leaked passwords from one website to try logging into people’s email and bank accounts.
@@ -68,6 +67,13 @@ Think of like a house:
     Don’t reuse passwords across sites.
 
 # Part C: Critical Thinking
+## 1.)Why Cyber attack do you think is the most dangerous today,why?
 
+Ransomware is the most dangerous cyber attack right now.  
+The reason is that it targets both individuals and big organizations like hospitals, banks, schools, and even city governments, and it can shut down their entire systems. Ransomware also causes double damage because hackers not only lock all your files and data, but they also threaten to leak sensitive information online if you don’t pay. Finally, it’s extremely profitable for criminals since companies are often willing to pay millions to get their operations back. Because of this, more hacking groups keep creating stronger versions of ransomware, which makes it one of the biggest threats today.
 
+## 2.)Three  security measures that I woud implement first to protect customers 
 
+- Multi-Factor Authentication (MFA) for all customer and staff accounts. Even if a password gets stolen in a phishing or password attack, hackers still can’t log in without the second code ,this stops 80%+ of account takeovers.
+- Regular backups and Endpoint Protection against Ransomware  Banks can’t afford downtime. I’d do daily encrypted backups stored offline, plus antivirus/EDR on every computer to detect ransomware before it spreads.
+- Staff Training and Anti-Phishing/Email Filtering .Most bank breaches start with a human mistake for example someone clicking a phishing link or falling for social engineering.Regular training and strong email filters stop attacks before they reach employees.
