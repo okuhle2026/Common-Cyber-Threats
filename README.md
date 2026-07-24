@@ -67,7 +67,7 @@ Think of like a house:
     Don’t reuse passwords across sites.
 
 # Part C: Critical Thinking
-## 1.)Why Cyber attack do you think is the most dangerous today,why?
+## 1.)What Cyber attack do you think is the most dangerous today,why?
 
 Ransomware is the most dangerous cyber attack right now.  
 The reason is that it targets both individuals and big organizations like hospitals, banks, schools, and even city governments, and it can shut down their entire systems. Ransomware also causes double damage because hackers not only lock all your files and data, but they also threaten to leak sensitive information online if you don’t pay. Finally, it’s extremely profitable for criminals since companies are often willing to pay millions to get their operations back. Because of this, more hacking groups keep creating stronger versions of ransomware, which makes it one of the biggest threats today.
